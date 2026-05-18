@@ -15,5 +15,10 @@ Python · pandas · scikit-learn · Jupyter
 ## Files
 - `ML_Collision_Risk_Predictive_Analysis_in_Toronto.ipynb` — full ML notebook
 
-## Author
-Ngan Nguyen — Business Intelligence & Data Analytics student, Algonquin College
+## Authors
+Team project by:
+- **Ngan Nguyen**
+- **Duc Anh Ngo**
+- **DongHwan Won**
+
+Business Intelligence & Data Analytics students, Algonquin College

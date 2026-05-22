@@ -19,6 +19,5 @@ Python · pandas · scikit-learn · Jupyter
 Team project by:
 - **Ngan Nguyen**
 - **Duc Anh Ngo**
-- **DongHwan Won**
 
 Business Intelligence System Infrastructure students, Algonquin College
